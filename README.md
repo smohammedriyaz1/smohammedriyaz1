@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Shaik Mohammed Riyaz</h1>
+<h1 align="center">
+Hi 👋, I'm Shaik Mohammed Riyaz
+</h1>
 
-<h3 align="center">AI/ML Engineer | MERN Stack Developer | Java Developer</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;MERN+Stack+Developer;Java+Developer;Machine+Learning+Enthusiast;Open+to+Work+%F0%9F%9A%80" />
+</p>
 
 <p align="center">
 Passionate about building AI-powered applications and scalable web solutions.
