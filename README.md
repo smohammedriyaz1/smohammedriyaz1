@@ -1,120 +1,124 @@
-<h1 align="center">
-Hi 👋, I'm Shaik Mohammed Riyaz
-</h1>
+<h1 align="center">Hi 👋, I'm Shaik Mohammed Riyaz</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;MERN+Stack+Developer;Java+Developer;Machine+Learning+Enthusiast;Open+to+Work+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;MERN+Stack+Developer;Java+Developer;Machine+Learning+Enthusiast;Open+to+Software+Engineer+Roles+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-Passionate about building AI-powered applications and scalable web solutions.
-Currently learning Machine Learning, Deep Learning, and Generative AI while strengthening my Data Structures & Algorithms skills.
+  <a href="mailto:smohammedriyaz1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/smohammedriyaz1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Computer Science Undergraduate (Graduating in 2026)
-- 🌱 Currently learning **Machine Learning, Deep Learning, and Generative AI**
-- 💻 Skilled in **Java, Python, JavaScript, MERN Stack**
-- 🚀 Interested in AI, Full Stack Development, and Backend Engineering
-- 📫 Reach me: **smohammedriyaz1@gmail.com**
+🎓 Computer Science Undergraduate (Graduating in 2026)
+
+🤖 Passionate about Artificial Intelligence and Machine Learning.
+
+💻 Skilled in Java, Python, MERN Stack, SQL and Backend Development.
+
+📚 Currently learning
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Data Structures & Algorithms
+
+🚀 Interested in
+- AI/ML
+- Backend Development
+- Full Stack Development
+- Open Source
+
+📫 Email: **smohammedriyaz1@gmail.com**
 
 ---
 
-## 🚀 Tech Stack
-## 💻 Skills
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,tensorflow,git,docker,linux,vscode,postman&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,tensorflow,git,docker,linux,vscode,postman&perline=7"/>
 </p>
-
-### Languages
-- Java
-- Python
-- JavaScript
-- SQL
-
-### Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- React.js
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-- MySQL
-
-### AI / Machine Learning
-- NumPy
-- Pandas
-- Scikit-learn
-- TensorFlow
-- Matplotlib
-- Seaborn
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Docker
-- Linux
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
 ### 🏠 Atlas Stay
-A MERN Stack property booking and listing platform with authentication, authorization, image uploads, and responsive UI.
+Property Booking & Listing Platform built using the MERN Stack with secure authentication and responsive design.
+
+---
 
 ### 🤖 AI Web Accessibility Analytics
-An AI-powered platform for evaluating website accessibility compliance using Machine Learning.
+AI-powered platform for analyzing website accessibility and WCAG compliance using Machine Learning.
+
+---
 
 ### 📊 Student Performance Analysis
-Analyzed student performance using Python, Pandas, NumPy, and data visualization techniques.
+Python project using Pandas, NumPy and Matplotlib to analyze student data and generate insights.
+
+---
 
 ### 📱 iPhone Price Prediction
-Machine Learning regression project for predicting iPhone prices using Scikit-learn.
+Regression model built with Scikit-learn to predict iPhone prices from historical data.
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smohammedriyaz1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=smohammedriyaz1&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smohammedriyaz1&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smohammedriyaz1&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=smohammedriyaz1&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=smohammedriyaz1&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🎯 2026 Goals
+# 🏆 GitHub Trophies
 
-- ✅ Master Machine Learning
-- ✅ Build Real-World AI Projects
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=smohammedriyaz1&theme=algolia&margin-w=15"/>
+</p>
+
+---
+
+# 🎯 Goals for 2026
+
+- ✅ Build real-world AI/ML projects
+- ✅ Strengthen Data Structures & Algorithms
 - ✅ Contribute to Open Source
-- ✅ Solve 500+ DSA Problems
-- ✅ Land an AI/ML or Software Engineer role
+- ✅ Learn Deep Learning & LLMs
+- ✅ Start contributing to impactful software projects
+- ✅ Secure an AI/ML or Software Engineer role
 
 ---
 
-## 🤝 Connect With Me
+# 🌐 Connect With Me
 
-- 💼 LinkedIn:https://www.linkedin.com/in/s-mohammed-riyaz
-- 📧 Email: smohammedriyaz1@gmail.com
+- 📧 Email: **smohammedriyaz1@gmail.com**
+- 💼 LinkedIn: **Add your LinkedIn profile URL here**
+- 💻 GitHub: **https://github.com/smohammedriyaz1**
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=smohammedriyaz1&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</h3>
