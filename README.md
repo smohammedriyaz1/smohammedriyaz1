@@ -79,26 +79,9 @@ Regression model built with Scikit-learn to predict iPhone prices from historica
 ---
 
 
-## 📊 GitHub Statistics
+## 📈 GitHub Activity Graph
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=smohammedriyaz1&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smohammedriyaz1&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=smohammedriyaz1&theme=tokyonight" />
-</p>
-
----
-
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smohammedriyaz1&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
+[![Riyaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smohammedriyaz1&theme=tokyo-night)](https://github.com/smohammedriyaz1)
 
 ---
 
