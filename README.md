@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" alt="GitHub Banner" width="100%">
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Shaik Mohammed Riyaz</h1>
 
 <p align="center">
