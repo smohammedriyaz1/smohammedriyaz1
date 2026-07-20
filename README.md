@@ -24,6 +24,11 @@ Currently learning Machine Learning, Deep Learning, and Generative AI while stre
 ---
 
 ## 🚀 Tech Stack
+## 💻 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,tensorflow,git,docker,linux,vscode,postman&perline=7" />
+</p>
 
 ### Languages
 - Java
