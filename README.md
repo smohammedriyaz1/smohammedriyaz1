@@ -19,7 +19,7 @@ Currently learning Machine Learning, Deep Learning, and Generative AI while stre
 - 🌱 Currently learning **Machine Learning, Deep Learning, and Generative AI**
 - 💻 Skilled in **Java, Python, JavaScript, MERN Stack**
 - 🚀 Interested in AI, Full Stack Development, and Backend Engineering
-- 📫 Reach me: **your-email@example.com** *(Replace with your email)*
+- 📫 Reach me: **smohammedriyaz1@gmail.com**
 
 ---
 
@@ -107,8 +107,8 @@ Machine Learning regression project for predicting iPhone prices using Scikit-le
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*
-- 📧 Email: *(Add your email here)*
+- 💼 LinkedIn:https://www.linkedin.com/in/s-mohammed-riyaz
+- 📧 Email: smohammedriyaz1@gmail.com
 
 ---
 
