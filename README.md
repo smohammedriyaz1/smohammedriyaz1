@@ -108,7 +108,7 @@ Regression model built with Scikit-learn to predict iPhone prices from historica
 # 🌐 Connect With Me
 
 - 📧 Email: **smohammedriyaz1@gmail.com**
-- 💼 LinkedIn: **Add your LinkedIn profile URL here**
+- 💼 LinkedIn:https://www.linkedin.com/in/s-mohammed-riyaz
 - 💻 GitHub: **https://github.com/smohammedriyaz1**
 
 ---
