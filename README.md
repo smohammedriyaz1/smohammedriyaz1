@@ -78,7 +78,6 @@ Regression model built with Scikit-learn to predict iPhone prices from historica
 
 ---
 
-# 📊 GitHub Statistics
 
 ## 📊 GitHub Statistics
 
